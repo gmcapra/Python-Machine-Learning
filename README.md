@@ -1,5 +1,5 @@
 # Python-Machine-Learning
-Repository to house simple or advanced practice projects related to implementation of various Machine Learning Algorithms with Python in an effort to analyze and visualize data, and predict target variables. Necessary data files will either be included in each respective folder, or loaded through the respective .py script. Scripts can be run directly from the command line or terminal but will require the necessary libraries to be installed.
+Repository to house simple or advanced practice projects related to implementation of various Machine Learning Algorithms with Python in an effort to analyze/visualize data and predict target variables. Necessary data files will either be included in each respective folder, or loaded through the respective .py script. Scripts can be run directly from the command line or terminal but will require the necessary libraries to be installed.
 
 Within this repository are Python practice scripts and projects related to using Data Analysis and Machine Learning to:
 - Implement Linear Regression Models
