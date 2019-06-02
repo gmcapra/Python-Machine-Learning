@@ -17,4 +17,3 @@ The main libraries that will be used include:
 - Seaborn
 - Matplotlib
 - SciKit Learn
-* Additional libraries may be needed for certain scripts
