@@ -137,8 +137,7 @@ print('\n')
 The reports obtained show very high accuracy of bank note authenticity predictions. To
 compare, let's see how a different classifier model would perform.
 
-Use a RandomForestClassifier instead and compare this model's accuracy to that of our Deep
-Learning Model.
+Use a RandomForestClassifier instead and compare this model's accuracy to that of our DNN Model.
 """
 
 #import random forest classifier
