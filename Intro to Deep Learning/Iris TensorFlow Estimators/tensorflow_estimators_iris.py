@@ -1,6 +1,6 @@
 """
 --------------------------------------------------------------------------------------------------
-TensorFlow Estimators Project - Predicting Iris Species Using a Deep Neural Network Classifier
+TensorFlow Estimators Project - Predicting Iris Species Using a DNN Classifier
 --------------------------------------------------------------------------------------------------
 In this project, a TensorFlow Estimator Object will be created and trained
 to classify the species of Iris flower based on the numerical feature columns
@@ -50,7 +50,7 @@ for col in X.columns:
 #num epochs is how many times you want to go through training data
 input_func = tf.estimator.inputs.pandas_input_fn(x=X_train,y=y_train,batch_size=10,num_epochs=5,shuffle=True)
 
-#create Deep Neural Network classifier (our estimator)
+#create DNN classifier (our estimator)
 #hidden units defines # of hidden layers and how many neurons in each layer
 #specify number of classes, we have 3, as there are 3 species of flowers
 #define the feature columns, created above
