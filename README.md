@@ -17,3 +17,4 @@ The main libraries that will be used include:
 - Seaborn
 - Matplotlib
 - SciKit Learn
+- TensorFlow
