@@ -11,7 +11,7 @@ Within this repository are Python scripts demonstrating implementation of the fo
 - Principal Component Analysis (factor analysis) 
 - Building Recommendation Systems based on dataset correlations
 
-The main libraries that will be used include: 
+The main libraries that are used: 
 - Pandas
 - Numpy
 - Seaborn
