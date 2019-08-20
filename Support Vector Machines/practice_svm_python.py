@@ -1,5 +1,5 @@
 """
-Practice Using Support Vector Machines with Python
+Intro to Support Vector Machines with Python
 Gianluca Capraro
 Created: May 2019
 
