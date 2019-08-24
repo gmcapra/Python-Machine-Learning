@@ -10,7 +10,7 @@ Within this repository are Python scripts demonstrating implementation of the fo
 - K Means Clustering
 - Support Vector Machines and GridSearch Parameter Optimization
 - Principal Component Analysis (Factor Analysis) 
-- Building Recommendation Systems
+- Intro to Recommendation Systems
 
 The main libraries that are used in these scripts: 
 - Pandas
