@@ -11,7 +11,6 @@ two groups: Public or Private.
 
 This project will make use of a public data frame containing
 777 Universities with 18 different variables related to each.
-
 Although this data frame already contains the label indicating
 whether the University is public or private, this project will
 cluster the data points in an unsupervised setting where the true
