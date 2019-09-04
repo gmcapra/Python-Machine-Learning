@@ -5,7 +5,6 @@ Gianluca Capraro
 Created: May 2019
 ------------------------------------------------------------------
 -Use Scikit learn and python to create artificial data
-
 -Use Scikit learn and python to manipulate and visualize this data 
 	and implement a K Means Clustering Algorithm 
 ------------------------------------------------------------------
